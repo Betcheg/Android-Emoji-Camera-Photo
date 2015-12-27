@@ -3,7 +3,7 @@ source code for https://play.google.com/store/apps/details?id=betcheg.emojicamer
 
 ## Description
 
-![Example montage](https://lh3.googleusercontent.com/wrpY0MmvyO18yiL3ScBUHQ9tGJeDnhI4ODPI02WM33u3GPldoNllD4g9UIT6nf9vhm4=h310-rw)
+![Example montage]https://lh3.googleusercontent.com/wrpY0MmvyO18yiL3ScBUHQ9tGJeDnhI4ODPI02WM33u3GPldoNllD4g9UIT6nf9vhm4=h900-rw)
 
 Emoji Camera Photo is an Android application that let the user create montages with emojis and edit photos, with an intuitive drag and drop interface.
 
