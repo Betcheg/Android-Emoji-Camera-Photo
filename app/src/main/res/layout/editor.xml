@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:layout_above="@+id/b_invisible"
+        android:scaleType="fitXY"></ImageView>
+
+    <SeekBar
+        android:id="@+id/seekbarSize"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:progress="50"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible" />
+
+    <SeekBar
+        android:id="@+id/seekbarRotation"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="-170dp"
+        android:progress="50"
+        android:rotation="270"
+        android:visibility="invisible" />
+
+
+    <Button
+        android:id="@+id/b_addmontage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/boutonadd"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:textSize="22dp"
+        android:text="+" />
+
+    <TextView
+        android:id="@+id/t_imagecreated"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:textSize="12dp"
+        android:visibility="invisible"
+        android:text="Image created with ''Emoji Camera Photo'' app for Android"/>
+
+    <Button
+        android:id="@+id/b_invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="invisible"/>
+
+
+    <Button
+        android:id="@+id/b_savemontage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/buttonsave"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_alignParentRight="true"
+        android:textSize="15dp"
+        android:text="Ok"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emoji Camera Photo</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_permission">Sorry, there is no permission</string>
+    <color name="black">#000000</color>
+    <color name="notthatblack">#CC000000</color>
+</resources>

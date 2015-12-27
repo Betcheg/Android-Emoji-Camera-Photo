@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/classes-4c8b7bc55dd29e226f9885e38d18971d3849f2db.jar" />
+    </item>
+    <item
+        jar="/home/bastien/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.1.6/e3d5f6ab2003e31f2cf5ea61b4731a21e9517935/androidasync-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3d5f6ab2003e31f2cf5ea61b4731a21e9517935">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/androidasync-2.1.6-42d61725e2177a79ed75848838ca87e6653cd1c9.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/classes-8b664cd9f559c5dbf419296952ee1a4c73ea0b38.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/libs/simple-side-drawer2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c03f3a39e0eb9ba2f74681d63093341ca9f3e55">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/simple-side-drawer2-1f04627939be617caea5e7b3cd18e2ce67c0da3d.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1-2182df37e8006d39101c89da263632c983570e9a.jar" />
+    </item>
+    <item
+        jar="/home/bastien/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1-34d73a717c4b451b3f26d94fd282c223da874f99.jar" />
+    </item>
+    <item
+        jar="/home/bastien/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/gson-2.3-177e7fba417e758650cf4c06a3c97ce7aa6db1a7.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/classes-c2bc20e5762a2a8e12f66ee33e335159a6091152.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/libs/apprate.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/apprate-ef52deaad6cde9ee950f0e936f4b1303048ec5aa.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/libs/ion-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd55ef3ba6d8b62838b658ba2507b019dffb3a08">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/ion-2.1.6-739f04c4a3df635f9b936119bb2e48d79578c37b.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/classes-a5307daae1a72b60d5d7feffd07e6364bfd66637.jar" />
+    </item>
+    <item
+        jar="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/exploded-aar/com.github.Angtrim/Android-Five-Stars-Library/v3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="620ece3f481e7905deab3a8e95adc1f3a48edbfc">
+        <dex dex="/home/bastien/AndroidStudioProjects/EmojiMontage/app/build/intermediates/pre-dexed/release/classes-8dfb91cab79d1141e04a33a009f41e6bb7f80ad9.jar" />
+    </item>
+
+</items>

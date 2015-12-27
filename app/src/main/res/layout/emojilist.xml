@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+  <ScrollView
+  android:id="@+id/horizontal"
+  android:layout_width="wrap_content"
+  android:layout_height="fill_parent"
+  android:layout_alignParentBottom="true"
+  android:background="@color/notthatblack"
+  >
+
+  <TableLayout
+  android:id="@+id/imgfixe"
+  android:layout_width="240dp"
+  android:layout_height="fill_parent"
+  android:orientation="vertical">
+  <TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f47d"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f47d"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f47f"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f47f"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f4a9"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f4a9"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f600"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f600"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f601"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f601"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f602"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f602"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f603"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f603"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f604"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f604"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f605"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f605"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f606"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f606"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f607"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f607"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f608"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f608"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f609"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f609"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f60a"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f60a"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f60b"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f60b"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f60c"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f60c"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f60d"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f60d"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f60e"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f60e"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f60f"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f60f"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f610"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f610"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f611"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f611"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f612"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f612"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f613"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f613"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f614"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f614"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f615"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f615"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f616"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f616"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f617"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f617"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f618"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f618"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f619"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f619"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f61a"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f61a"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f61b"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f61b"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f61c"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f61c"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f61d"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f61d"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f61e"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f61e"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f61f"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f61f"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f620"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f620"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f621"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f621"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f622"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f622"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f623"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f623"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f624"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f624"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f625"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f625"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f626"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f626"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f627"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f627"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f628"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f628"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f629"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f629"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f62a"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f62a"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f62b"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f62b"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f62c"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f62c"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f62d"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f62d"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f62e"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f62e"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f62f"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f62f"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f630"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f630"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f631"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f631"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f632"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f632"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f633"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f633"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f634"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f634"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f635"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f635"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f636"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f636"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f637"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f637"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f641"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f641"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f642"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f642"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f643"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f643"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f644"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f644"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f910"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f910"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f911"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f911"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f912"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f912"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f913"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f913"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f914"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f914"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemoji1f915"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f915"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji1f917"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji1f917"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji2639"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji2639"
+  android:scaleType="fitCenter" />
+
+
+  <Button
+  android:id="@+id/b_aemoji263a"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemoji263a"
+  android:scaleType="fitCenter" />
+</TableRow>
+<TableRow>
+
+
+  <Button
+  android:id="@+id/b_aemojiz1f525"
+  android:layout_width="36dp"
+  android:layout_height="36dp"
+  android:layout_marginLeft="12dp"
+  android:layout_marginRight="12dp"
+  android:layout_marginTop="12dp"
+  android:background="@drawable/aemojiz1f525"
+  android:scaleType="fitCenter" />
+  </TableRow>
+
+</TableLayout>
+
+</ScrollView>
+
+</LinearLayout>

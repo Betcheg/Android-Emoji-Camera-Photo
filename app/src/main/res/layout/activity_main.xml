@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fond"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/smiley"
+        android:layout_width="222dp"
+        android:layout_height="260dp"
+        android:layout_marginRight="-20dp"
+        android:layout_marginBottom="-80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/aemoji1f602">
+    </ImageView>
+
+    <Button
+        android:id="@+id/b_select"
+        android:layout_centerInParent="true"
+        android:text="Select a picture"
+        android:layout_marginLeft="42dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="42dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/boutonbegin"
+        android:textSize="16dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" >
+    </ImageView>
+
+
+
+
+
+</RelativeLayout>
