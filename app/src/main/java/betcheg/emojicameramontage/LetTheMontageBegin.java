@@ -35,7 +35,7 @@ import java.util.Date;
 public class LetTheMontageBegin extends ActionBarActivity {
 
 
-    int idTable;
+    int currentIdTable;
     int lastIdImage = 0;
     long lastclic = 0;
     int lastId = 0;
@@ -1094,10 +1094,10 @@ public class LetTheMontageBegin extends ActionBarActivity {
   void touchedImage(int id) {
 
     currentNumberOfImages++;
-    idTable = 1;
+    currentIdTable = 1;
 
     for (int i = 0; i < idTable.length; i++) {
-      if (idTable[i] == id) idTable = i;
+      if (idTable[i] == id) currentIdTable = i;
     }
 
     slide.toggleDrawer();
