@@ -308,7 +308,7 @@ public class LetTheMontageBegin extends ActionBarActivity {
 
 
     ImageView imgView = (ImageView) findViewById(R.id.imgView);
-    imgView.setImageBitmap(BitmapFactory.decodeFile(imageString)); // Get the image previously selected by the user
+    imgView.setImageBitmap(decodeSampledBitmapFromResource(imageString)); // Get the image previously selected by the user
 
     imgView.setOnClickListener(new View.OnClickListener() {
       @Override
@@ -1187,5 +1187,54 @@ public class LetTheMontageBegin extends ActionBarActivity {
 
     // Scan the image to make it appear in gallery
     MediaScannerConnection.scanFile(this, new String[]{file.getPath()}, new String[]{"image/jpeg"}, null);
+  }
+
+    
+  public Bitmap decodeSampledBitmapFromResource(String path) {
+
+    Display display = getWindowManager().getDefaultDisplay();
+    int currentWidth = display.getWidth();
+    int currentHeight = display.getHeight();
+
+    int gradient = currentWidth / currentHeight;
+    int reqHeight = 1024;
+    int reqWidth = gradient* reqHeight;
+
+
+
+    // First decode with inJustDecodeBounds=true to check dimensions
+    final BitmapFactory.Options options = new BitmapFactory.Options();
+    options.inJustDecodeBounds = true;
+    BitmapFactory.decodeFile(path, options);
+
+    // Calculate inSampleSize
+    options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
+
+    // Decode bitmap with inSampleSize set
+    options.inJustDecodeBounds = false;
+    return ExifUtil.rotateBitmap(path, BitmapFactory.decodeFile(path, options));
+  }
+
+  public static int calculateInSampleSize(
+          BitmapFactory.Options options, int reqWidth, int reqHeight) {
+    // Raw height and width of image
+    final int height = options.outHeight;
+    final int width = options.outWidth;
+    int inSampleSize = 1;
+
+    if (height > reqHeight || width > reqWidth) {
+
+      final int halfHeight = height / 2;
+      final int halfWidth = width / 2;
+
+      // Calculate the largest inSampleSize value that is a power of 2 and keeps both
+      // height and width larger than the requested height and width.
+      while ((halfHeight / inSampleSize) > reqHeight
+              && (halfWidth / inSampleSize) > reqWidth) {
+        inSampleSize *= 2;
+      }
+    }
+
+    return inSampleSize;
   }
 }
